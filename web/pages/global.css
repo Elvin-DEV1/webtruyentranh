@@ -1,0 +1,82 @@
+.card-head .ant-card-head{
+    background-color: #3f6791;
+    border-bottom: none;
+    color: #fff;
+}
+.meta-white .ant-card-meta-title{
+    color: #fff;
+}
+.text-white{
+    color: #fff;
+}
+.same-row{
+    display: flex;
+    flex-direction: row;
+}
+.table-black .ant-table-row{
+    background-color: #343a40;
+}
+.text-white .ant-table-cell {
+    color: #999;
+}
+.text-white .ant-table-cell a{
+    color: #fff;
+}
+.table-black .ant-table-row:hover {
+    color: black;
+    background: #6c757d;
+}
+.text-white .ant-form-item-required{
+    color: #fff;
+}
+.text-white span{
+    color: #fff;
+}
+.login-text-big{
+    text-align: center;
+    color: #fff;
+    font-weight: 900;
+    font-size: 64px;
+    text-transform: uppercase;
+}
+.user-profile-card .ant-card-body{
+    background-color: #343a40;
+    
+}
+.user-profile-card .ant-card-body .ant-card-meta-title{
+    color: #fff;
+}
+.user-profile-card .ant-card-body .ant-card-meta-description{
+    color: #fff;
+}
+.category-list .ant-tag-checkable{
+    color: #fff;
+}
+.user-info-list .ant-list-item .ant-list-item-no-flex{
+    color: #fff;
+}
+.user-profile-form .ant-tabs-tab-btn{
+    color: #fff;
+}
+.user-form label{
+    color: #fff;
+}
+
+
+.overlay {
+    position: fixed !important;
+    width: 100% !important; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    background-color: rgba(164, 164, 164, 0.12); /* Black background with opacity */
+    z-index: 999; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+  }
+  
+  .ant-spin-spinning {
+    position: absolute !important;
+  }
+  
