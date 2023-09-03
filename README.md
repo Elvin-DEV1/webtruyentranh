@@ -1,4 +1,4 @@
-# 2022-TH-Lap_Trinh_Web-G5
+#WEB TRUYỆN TRANH
 
 ## Install instruction:
 - Step 1: Import sql
