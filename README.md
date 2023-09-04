@@ -1,4 +1,4 @@
-# **Hướng dẫn cài đặt:**
+# Hướng dẫn cài đặt:
 ## Bước 1: Cài database:
 Dùng xampp để tạo một database với tên "manga_web3", chọn mục import để nhập file sau đây https://drive.google.com/file/d/1HGoihwo5tBMR9Ohc1je2x5zlLLwZP_MR/view?usp=sharing
 ## Bước 2: Hiệu chỉnh file env trong laravel
@@ -14,7 +14,7 @@ npm install
 ## Bước 5: Tải thư mục ảnh
 Tải thư mục “Mangas” để vào trong thư mục /web/public/
 https://drive.google.com/drive/folders/1XA_2mGxIcwKw9sUz_As4fkORpEkNXuo9?usp=sharing
-# **Hướng dẫn khởi động:**
+# Hướng dẫn khởi động:
 ## Bước 1: Chạy api
 Trong thư mục chính chạy lệnh sau đây:
 cd api
