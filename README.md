@@ -15,12 +15,12 @@ npm install
 Tải thư mục “Mangas” để vào trong thư mục /web/public/
 https://drive.google.com/drive/folders/1XA_2mGxIcwKw9sUz_As4fkORpEkNXuo9?usp=sharing
 # **Hướng dẫn khởi động:**
-Bước 1: Chạy api
+## Bước 1: Chạy api
 Trong thư mục chính chạy lệnh sau đây:
 cd api
 php artisan serve
 
-Bước 2: Chạy front-end
+## Bước 2: Chạy front-end
 Trong thư mục chính chạy lệnh sau đây:
 cd web
 npm run dev
