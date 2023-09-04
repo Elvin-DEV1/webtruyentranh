@@ -1,4 +1,4 @@
-Hướng dẫn cài đặt:
+#**Hướng dẫn cài đặt:**
 Bước 1: Cài database:
 Dùng xampp để tạo một database với tên "manga_web3", chọn mục import để nhập file sau đây https://drive.google.com/file/d/1HGoihwo5tBMR9Ohc1je2x5zlLLwZP_MR/view?usp=sharing
 Bước 2: Hiệu chỉnh file env trong laravel
