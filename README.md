@@ -27,7 +27,7 @@ npm run dev
 
 # Hình ảnh minh họa về sản phẩm:
 ## 1. Giao diện dành cho admin :
-![markdown]([https://images.viblo.asia/518eea86-f0bd-45c9-bf38-d5cb119e947d.png](https://drive.google.com/file/d/1setg9KcLppL94zs0nBHoPnhIRecS-3To/view?usp=drive_link))
+![markdown]([https://drive.google.com/drive/folders/1riZ2yEZ7Su2umyM6C56rA5LqNf9kTAVN])
 ## 2. Giao diện dành cho người dùng :
 ### a. Trang chủ :
 ### b. Trang đăng nhập :
