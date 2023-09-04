@@ -1,34 +1,27 @@
-#WEB TRUYỆN TRANH
-
-## Install instruction:
-- Step 1: Import sql
-* Use xampp to create a new database with name "manga_web3", select import this file https://drive.google.com/file/d/1HGoihwo5tBMR9Ohc1je2x5zlLLwZP_MR/view?usp=sharing
-- Step 2: Config env file
-* Copy file env to api/.env: https://drive.google.com/file/d/1Nqg1HrV8PzwPJVco_KXrj5u3FbU2wqYo/view?usp=sharing
-- Step 3: Install composer
-* In main folder run the follwing command
-```
+Hướng dẫn cài đặt:
+Bước 1: Cài database:
+Dùng xampp để tạo một database với tên "manga_web3", chọn mục import để nhập file sau đây https://drive.google.com/file/d/1HGoihwo5tBMR9Ohc1je2x5zlLLwZP_MR/view?usp=sharing
+Bước 2: Hiệu chỉnh file env trong laravel
+Copy file env vào api/.env: https://drive.google.com/file/d/1Nqg1HrV8PzwPJVco_KXrj5u3FbU2wqYo/view?usp=sharing
+Bước 3: Tải composer
+Trong thư mục chính chạy lệnh sau đây:
 cd api
 composer install
-```
-- Step 4: Install npm
-* In main folder run the follwing command
-```
+Bước 4: Tải npm
+Trong thư mục chính chạy lệnh sau đây:
 cd web
 npm install
-```
-## Start instruction:
-- Step 1: Run api
-* In main folder run the follwing command
-```
+Bước 5: Tải thư mục ảnh
+Tải thư mục “Mangas” để vào trong thư mục /web/public/
+https://drive.google.com/drive/folders/1XA_2mGxIcwKw9sUz_As4fkORpEkNXuo9?usp=sharing
+Hướng dẫn khởi động:
+Bước 1: Chạy api
+Trong thư mục chính chạy lệnh sau đây:
 cd api
 php artisan serve
-```
-- Step 2: Run front-end
-* In main folder run the follwing command
-```
+
+Bước 2: Chạy front-end
+Trong thư mục chính chạy lệnh sau đây:
 cd web
 npm run dev
-```
-## Question:
-https://docs.google.com/document/d/1HpyfW8fsYWt4ZmqHo0_hWX92SdR3pjK9Uyo9dHZLjUw/edit?usp=sharing
+
