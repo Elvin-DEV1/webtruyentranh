@@ -25,3 +25,14 @@ Trong thư mục chính chạy lệnh sau đây:
 cd web
 npm run dev
 
+# Hình ảnh minh họa về sản phẩm:
+## 1. Giao diện dành cho admin :
+## 2. Giao diện dành cho người dùng :
+### a. Trang chủ :
+### b. Trang đăng nhập :
+### c. Trang đăng ký :
+### d. Trang tất cả các truyện :
+### e. Trang thông tin bộ truyện :
+### f. Trang đọc truyện :
+### g. Trang profile của người dùng :
+### h. Trang lịch sử đọc truyện :
