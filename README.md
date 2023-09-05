@@ -27,12 +27,12 @@ npm run dev
 
 # Hình ảnh minh họa về sản phẩm:
 ## 1. Giao diện dành cho admin :
-![markdown](https://longbruno.click/banhang/images/admin.png)
+![markdown](https://longbruno.click/banhang/images/admin1.png)
 ## 2. Giao diện dành cho người dùng :
 ### a. Trang chủ :
-![markdown](https://longbruno.click/banhang/images/home.png)
+![markdown](https://longbruno.click/banhang/images/home1.png)
 ### b. Trang đăng nhập :
-![markdown](https://longbruno.click/banhang/images/dangnhap.png)
+![markdown](https://longbruno.click/banhang/images/dangnhap1.png)
 ### c. Trang đăng ký :
 ![markdown](https://longbruno.click/banhang/images/dangki.png)
 ### d. Trang tất cả các truyện :
