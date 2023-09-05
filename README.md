@@ -27,7 +27,7 @@ npm run dev
 
 # Hình ảnh minh họa về sản phẩm:
 ## 1. Giao diện dành cho admin :
-![markdown]([https://drive.google.com/drive/folders/1riZ2yEZ7Su2umyM6C56rA5LqNf9kTAVN])
+![markdown]([https://longbruno.click/banhang/images/46.jpg])
 ## 2. Giao diện dành cho người dùng :
 ### a. Trang chủ :
 ### b. Trang đăng nhập :
