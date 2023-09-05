@@ -30,10 +30,18 @@ npm run dev
 ![markdown](https://longbruno.click/banhang/images/admin.png)
 ## 2. Giao diện dành cho người dùng :
 ### a. Trang chủ :
+![markdown](https://longbruno.click/banhang/images/home.png)
 ### b. Trang đăng nhập :
+![markdown](https://longbruno.click/banhang/images/dangnhap.png)
 ### c. Trang đăng ký :
+![markdown](https://longbruno.click/banhang/images/dangki.png)
 ### d. Trang tất cả các truyện :
+![markdown](https://longbruno.click/banhang/images/tatca.png)
 ### e. Trang thông tin bộ truyện :
+![markdown](https://longbruno.click/banhang/images/thongtintruyen.png)
 ### f. Trang đọc truyện :
+![markdown](https://longbruno.click/banhang/images/doctruyen.png)
 ### g. Trang profile của người dùng :
+![markdown](https://longbruno.click/banhang/images/thongtinuser.png)
 ### h. Trang lịch sử đọc truyện :
+![markdown](https://longbruno.click/banhang/images/lichsu.png)
